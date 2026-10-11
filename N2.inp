@@ -1,6 +1,3 @@
-! B3LYP def2-SVP opt freq printmos largeprint
+! CCSD(T) cc-pVTZ cc-pVTZ/C TightSCF opt printmos largeprint
 
-*xyz 0 1
-N 1 0 0
-N -1 0 0
-*
+*xyzfile 0 1 N2.xyz
